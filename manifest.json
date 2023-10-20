@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Guns",
+        "description": "Shoot Guns. Made by Renegades. RP",
+        "uuid": "62a1eee5-9254-404b-bab1-12585bcd0c9f",
+        "version": [0,1,0],
+        "min_engine_version": [1,20,32]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "description": "Guns RP",
+            "uuid": "db26d666-01e6-4863-9585-d87e2d85b42a",
+            "version": [1,0,0]
+        }
+    ]
+}
