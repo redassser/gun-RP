@@ -1,9 +1,7 @@
 {
-	"resource_pack_name": "Guns",
-	"texture_name": "atlas.items",
 	"texture_data": {
 		"g17": {
-			"textures": "textures/items/guns/g17"
+			"textures": "textures/items/g17.png"
 		}
 	}
 }
