@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:attachable": {
+      "description": {
+        "identifier": "rr:g17",
+        "materials": {
+          "default": "entity_alphatest",
+          "enchanted": "entity_alphatest_glint"
+        },
+        "textures": {
+          "default": "textures/items/guns/g17",
+          "enchanted": "textures/misc/enchanted_item_glint"
+        },
+        "geometry": {
+          "default": "geometry.glock"
+        },
+        "render_controllers": [ "controller.render.item_default" ]
+      }
+    }
+  }
